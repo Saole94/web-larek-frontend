@@ -1,4 +1,4 @@
-# Web-ларёк https://github.com/Saole94/web-larek-frontend.git
+# [Web-ларёк.](https://github.com/Saole94/web-larek-frontend.git)
 Интернет-магазин с товарами для веб-разработчиков. 
 Содержит: каталог товаров, возможность добавить товары в корзину и делать заказы.  
 [Посмотреть проект Web-ларёк.](https://saole94.github.io/web-larek-frontend/)
